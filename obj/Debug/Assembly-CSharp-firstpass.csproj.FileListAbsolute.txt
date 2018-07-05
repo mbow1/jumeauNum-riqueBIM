@@ -1,0 +1,2 @@
+C:\Users\VRCES\Documents\Projet-Batiment_du_futur\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+C:\Users\VRCES\Documents\Projet-Batiment_du_futur\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache

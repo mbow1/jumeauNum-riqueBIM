@@ -1,0 +1,88 @@
+fileFormatVersion: 2
+guid: 2c6e17d5a0971f74dbf06a726e3a23b5
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: Concrete_Tiles/Concrete_Tiles
+    400000: Concrete_Tiles/Concrete_Tiles/Transform
+    2100000: mat.ConcreteTilesGraph
+    2300000: Concrete_Tiles/Concrete_Tiles/MeshRenderer
+    2800000: ConcreteTilesGraph_Base Color
+    2800002: ConcreteTilesGraph_Normal
+    2800004: ConcreteTilesGraph_Metallic
+    2800006: ConcreteTilesGraph_Ambient Occlusion
+    2800008: ConcreteTilesGraph_Height
+    3300000: Concrete_Tiles/Concrete_Tiles/MeshFilter
+    11400000: sbsar
+    11400002: graph0
+    13500000: Concrete_Tiles/Concrete_Tiles/SphereCollider
+    100100000: Concrete_Tiles
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 232528478, guid: 43a8bbf65be290d44ba52b94476242b9, type: 3}
+  mGraphInstanceData:
+  - graphLabel: ConcreteTilesGraph
+    graphDescIndex: 0
+    generateAllOutputs: 0
+    generateMipMaps: 1
+    preset: " <sbspreset pkgurl=\"pkg://ConcreteTilesGraph\" label=\"\" >\n  <presetinput
+      identifier=\"$outputsize\" uid=\"1517646273\" type=\"8\" value=\"6,6\" />\n
+      \ <presetinput identifier=\"$randomseed\" uid=\"218589075\" type=\"4\" value=\"3702\"
+      />\n  <presetinput identifier=\"Dirt_Amount\" uid=\"695214562\" type=\"0\" value=\"0.207\"
+      />\n </sbspreset>\n"
+    shaderName: Standard
+    outputNames: Base Color,Normal,Metallic,Ambient Occlusion,Height
+    texturePackingList:
+    - outputName: Base Color
+      alphaSource: Base Color
+    - outputName: Normal
+      alphaSource: Normal
+    - outputName: Roughness
+      alphaSource: Roughness
+    - outputName: Metallic
+      alphaSource: Smoothness
+    - outputName: Ambient Occlusion
+      alphaSource: Ambient Occlusion
+    - outputName: Height
+      alphaSource: Height
+    colorSpaceList:
+    - outputName: Base Color
+      bLinear: 0
+    - outputName: Normal
+      bLinear: 1
+    - outputName: Roughness
+      bLinear: 1
+    - outputName: Metallic
+      bLinear: 1
+    - outputName: Ambient Occlusion
+      bLinear: 1
+    - outputName: Height
+      bLinear: 1
+    inputTextureMap: []
+    targetSettingList:
+    - label: Default
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 64
+      textureHeight: 64
+      textureFormat: 0
+      loadBehavior: 0
+    - label: Standalone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 256
+      textureHeight: 256
+      textureFormat: 0
+      loadBehavior: 0
+    - label: iPhone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 256
+      textureHeight: 256
+      textureFormat: 0
+      loadBehavior: 0
+    material: {fileID: 2100000, guid: 2c6e17d5a0971f74dbf06a726e3a23b5, type: 3}
