@@ -63,7 +63,7 @@
     <Compile Include="Assets\LightMngr.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\CamEventOne.cs" />
-    <Compile Include="Assets\Scripts\WindowsRotate.cs" />
+    <Compile Include="Assets\Scripts\TransformWindows.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/VRCES/Documents/Projet-Batiment_du_futur/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
