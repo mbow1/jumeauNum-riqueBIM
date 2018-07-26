@@ -663,7 +663,7 @@ PlayerSettings:
   cloudServicesEnabled:
     UNet: 1
   facebookSdkVersion: 7.9.4
-  apiCompatibilityLevel: 2
+  apiCompatibilityLevel: 3
   cloudProjectId: ad0d16af-6ffd-4876-b7d5-467ca2869e77
   projectName: Projet-Batiment_du_futur
   organizationId: mbow1

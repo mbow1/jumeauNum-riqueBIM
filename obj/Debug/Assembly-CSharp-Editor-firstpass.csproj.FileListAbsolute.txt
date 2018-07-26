@@ -5,8 +5,6 @@ C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\Microsoft.Win32
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\mscorlib.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\netstandard.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\nunit.framework.dll
-C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\SmartLinkClient.dll
-C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\SmartLinkCom.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\SmartUdpClient.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\SourceUnityLib.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\Substance.Editor.dll
@@ -304,7 +302,6 @@ C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.Hol
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEditor.VR.xml
-C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\SmartUdpClient.pdb
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
@@ -313,3 +310,5 @@ C:\Users\VRCES\Documents\Projet-Batiment_du_futur\obj\Debug\Assembly-CSharp-Edit
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CopyComplete
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\obj\Debug\Assembly-CSharp-Editor-firstpass.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\obj\Debug\Assembly-CSharp-Editor-firstpass.pdb
+C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll

@@ -6,8 +6,6 @@ C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\Boo.Lang.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\mscorlib.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\netstandard.dll
-C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\SmartLinkClient.dll
-C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\SmartLinkCom.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\SmartUdpClient.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\Substance.Game.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\System.AppContext.dll
@@ -184,7 +182,6 @@ C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.Uni
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.VideoModule.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.VRModule.dll
-C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.WebGLModule.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.WebModule.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.WindModule.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.XRModule.dll
@@ -270,9 +267,9 @@ C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.UIA
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.HoloLens.xml
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
-C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\SmartUdpClient.pdb
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\obj\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.WebGLModule.dll
