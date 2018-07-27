@@ -72,7 +72,6 @@ public class TransformWindows : MonoBehaviour {
         A_RotationY = transform.eulerAngles.y;
         A_RotationZ = transform.eulerAngles.z;
         EstOuvert = false;
-        Gauche = false;
     }
 
     void Update()
