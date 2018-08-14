@@ -273,3 +273,5 @@ C:\Users\VRCES\Documents\Projet-Batiment_du_futur\obj\Debug\Assembly-CSharp-firs
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\obj\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\obj\Debug\Assembly-CSharp-firstpass.pdb
 C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\UnityEngine.WebGLModule.dll
+C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\TextMeshPro-2017.3-Editor.dll
+C:\Users\VRCES\Documents\Projet-Batiment_du_futur\Temp\bin\Debug\TextMeshPro-2017.3-Runtime.dll

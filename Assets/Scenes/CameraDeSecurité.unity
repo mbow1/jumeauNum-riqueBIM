@@ -2599,6 +2599,7 @@ GameObject:
   - component: {fileID: 119172749}
   - component: {fileID: 119172748}
   - component: {fileID: 119172747}
+  - component: {fileID: 119172751}
   m_Layer: 0
   m_Name: TextMeshPro
   m_TagString: Untagged
@@ -2785,6 +2786,18 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &119172751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 119172745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34cf55a2137c01140bb399e9fbfc5026, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idLoc: 2
 --- !u!1 &123096619
 GameObject:
   m_ObjectHideFlags: 0
@@ -8875,6 +8888,7 @@ GameObject:
   - component: {fileID: 386220915}
   - component: {fileID: 386220914}
   - component: {fileID: 386220913}
+  - component: {fileID: 386220917}
   m_Layer: 0
   m_Name: TextMeshPro
   m_TagString: Untagged
@@ -9061,6 +9075,18 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &386220917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 386220911}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34cf55a2137c01140bb399e9fbfc5026, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idLoc: 3
 --- !u!1 &386315028
 GameObject:
   m_ObjectHideFlags: 0
@@ -14450,7 +14476,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 617217244}
   m_LocalRotation: {x: -0.58100796, y: 0.40302584, z: 0.40302584, w: 0.58100796}
-  m_LocalPosition: {x: -20.734, y: 2.254, z: -8.56}
+  m_LocalPosition: {x: -20.734, y: 2.254, z: -5.851}
   m_LocalScale: {x: 0.81770605, y: 0.7127109, z: 0.7771471}
   m_Children: []
   m_Father: {fileID: 0}
@@ -34392,6 +34418,7 @@ GameObject:
   - component: {fileID: 1530071844}
   - component: {fileID: 1530071843}
   - component: {fileID: 1530071842}
+  - component: {fileID: 1530071846}
   m_Layer: 0
   m_Name: TextMeshPro
   m_TagString: Untagged
@@ -34578,6 +34605,18 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &1530071846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1530071840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34cf55a2137c01140bb399e9fbfc5026, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idLoc: 4
 --- !u!1 &1533497350
 GameObject:
   m_ObjectHideFlags: 0
@@ -45402,6 +45441,7 @@ GameObject:
   - component: {fileID: 1995826827}
   - component: {fileID: 1995826826}
   - component: {fileID: 1995826825}
+  - component: {fileID: 1995826829}
   m_Layer: 0
   m_Name: TextMeshPro
   m_TagString: Untagged
@@ -45588,6 +45628,18 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &1995826829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1995826823}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34cf55a2137c01140bb399e9fbfc5026, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idLoc: 1
 --- !u!1 &1995892713
 GameObject:
   m_ObjectHideFlags: 0
