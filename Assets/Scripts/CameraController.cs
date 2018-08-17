@@ -18,6 +18,7 @@ public class CameraController : MonoBehaviour {
 
     void Update()
     {
+        /*
        if ((rotationX <= maxX && rotationX >= minX)) {
 
               if (Input.GetKey(KeyCode.RightArrow) )
@@ -53,5 +54,6 @@ public class CameraController : MonoBehaviour {
 
         rotationY = Mathf.Clamp(rotationY, minY, maxY);
         transform.localEulerAngles = new Vector3(-rotationY, rotationX, 0);
+        */
     }
 }

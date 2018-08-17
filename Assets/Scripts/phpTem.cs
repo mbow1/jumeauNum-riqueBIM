@@ -8,7 +8,9 @@ public class phpTem : MonoBehaviour {
     string[] datat;
     public int idLoc;
 	// Use this for initialization
-	void Start () {
+
+
+   void Start () {
         WWW datafromphptem = new WWW("http://127.0.0.1/a/dataTemperatures.php");
           while (!datafromphptem.isDone)
               System.Threading.Thread.Sleep(1);
@@ -36,6 +38,14 @@ public class phpTem : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
+        wait(3600);
         Start();
+        
+    }
+
+    IEnumerator wait(int temps)
+    {
+        yield return new WaitForSeconds(temps);
+        
     }
 }

@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\CamEventOne.cs" />
     <Compile Include="Assets\Scripts\phpAunity.cs" />
+    <Compile Include="Assets\Scripts\PHPmeteos.cs" />
     <Compile Include="Assets\Scripts\phpTem.cs" />
     <Compile Include="Assets\Scripts\TransformWindows.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />

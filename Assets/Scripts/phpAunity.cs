@@ -52,10 +52,17 @@ public class phpAunity : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        wait(5);
         Start();
-
         this.GetComponent<TransformWindows>().EstOuvert = this.newetatfenetre;
        
+
+    }
+
+
+    IEnumerator wait(int temps)
+    {
+        yield return new WaitForSeconds(temps);
 
     }
 }
